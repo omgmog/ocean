@@ -1,21 +1,3 @@
-- name: Shoutout
-  creator: Tingbot
-  version: v1.0
-  modified_date: 30 Jan 2016
-  background_color: "3a3a3c"
-  icon: /img/apps/Shoutout-192x192.png
-  github_url: https://github.com/tingbot-apps/shoutout
-  zip_url: https://github.com/tingbot-apps/shoutout/archive/master.zip
-  screenshot_url: /img/screenshots/Shoutout.png
-
-- name: Hangman
-  creator: Robert
-  version: v0.1
-  modified_date: 1 May 2016
-  background_color: "fec852"
-  icon: /img/apps/Hangman-192x192.png
-  github_url: https://github.com/StraightTuber/TingbotHangman
-  zip_url: https://github.com/StraightTuber/TingbotHangman/archive/master.zip
 
 - name: Weather
   creator: Tingbot
@@ -107,3 +89,356 @@
   icon: /img/apps/ImgurFeed-192x192.png
   github_url: https://github.com/tingbot-apps/imgur-feed
   zip_url: https://github.com/tingbot-apps/imgur-feed/archive/master.zip
+
+- name: Hangman
+  creator: Robert
+  version: v0.1
+  modified_date: 1 May 2016
+  background_color: "fec852"
+  icon: /img/apps/Hangman-192x192.png
+  github_url: https://github.com/StraightTuber/TingbotHangman
+  zip_url: https://github.com/StraightTuber/TingbotHangman/archive/master.zip
+
+- name: Shoutout
+  creator: Tingbot
+  version: v1.0
+  modified_date: 30 Jan 2016
+  background_color: "3a3a3c"
+  icon: /img/apps/Shoutout-192x192.png
+  github_url: https://github.com/tingbot-apps/shoutout
+  zip_url: https://github.com/tingbot-apps/shoutout/archive/master.zip
+  screenshot_url: /img/screenshots/Shoutout.png
+
+- name: Adventure Time Giphy
+  creator: Max Glenister
+  version: v1.0.0
+  modified_date: 22 Sep 2016
+  background_color: "63c5ae"
+  icon: https://raw.githubusercontent.com/omgmog/tingbot-adventure-time-giphy/master/src/icon.png
+  github_url: https://github.com/omgmog/tingbot-adventure-time-giphy
+  zip_url: https://github.com/omgmog/tingbot-adventure-time-giphy/releases/download/1.0.0/Adventure.Time.Giphy.tingapp.zip
+
+- name: Device Tester
+  creator: Max Glenister
+  version: v1.0.0
+  modified_date: 22 Sep 2016
+  background_color: "43c920"
+  icon: https://raw.githubusercontent.com/omgmog/tingbot-device-tester/master/src/icon.png
+  github_url: https://github.com/omgmog/tingbot-device-tester
+  zip_url: https://github.com/omgmog/tingbot-device-tester/releases/download/1.0.0/Device.Tester.-.v1.0.0.tingapp.zip
+
+- name: Dialect Bot
+  creator: Ben
+  version: v0.1
+  modified_date: 23 Sep 2016
+  background_color: "44AEEF"
+  icon: https://raw.githubusercontent.com/benpawle/Dialect-Bot/master/Dialect bot.tingapp/icon.png
+  github_url: https://github.com/benpawle/Dialect-Bot
+  zip_url: https://github.com/benpawle/Dialect-Bot/archive/master.zip
+  
+- name: Snake for Tingbot
+  creator: LB (sanyrual)
+  version: v1.0.0
+  modified_date: 23 Sep 2016
+  background_color: "0000ff"
+  icon: https://raw.githubusercontent.com/sanyrual/snake-for_tingbot/master/Snake.tingapp/icon.png
+  github_url: https://github.com/sanyrual/snake-for_tingbot
+  zip_url: https://github.com/sanyrual/snake-for_tingbot/archive/master.zip
+  
+- name: WiFi
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 27 Sep 2016
+  background_color: "146dc9"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/WiFi.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504142/WiFi.tingapp-1.0.0.zip
+  
+- name: Weather
+  creator: WhistleMaster
+  version: v1.1.0
+  modified_date: 8 Dec 2016
+  background_color: "146dc9"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Weather.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/639759/Weather.tingapp-1.1.0.zip
+  
+- name: Timer
+  creator: WhistleMaster
+  version: v1.0.1
+  modified_date: 27 Oct 2016
+  background_color: "00a8ec"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Timer.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/556233/Timer.tingapp-1.0.1.zip
+  
+- name: TPG
+  creator: WhistleMaster
+  version: v1.1.0
+  modified_date: 1 Nov 2016
+  background_color: "ee5921"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/TPG.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/564235/TPG.tingapp-1.1.0.zip
+  
+- name: QoQa
+  creator: WhistleMaster
+  version: v1.0.1
+  modified_date: 1 Oct 2016
+  background_color: "04aeda"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/QoQa.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504138/QoQa.tingapp-1.0.1.zip
+  
+- name: Picture of the day
+  creator: WhistleMaster
+  version: v1.0.1
+  modified_date: 1 Oct 2016
+  background_color: "8a66a3"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/PictureOfTheDay.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504136/PictureOfTheDay.tingapp-1.0.1.zip
+  
+- name: Pi-hole
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 27 Sep 2016
+  background_color: "5a9139"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Pi-hole.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504137/Pi-hole.tingapp-1.0.0.zip
+  
+- name: Photo Album
+  creator: WhistleMaster
+  version: v1.0.1
+  modified_date: 1 Oct 2016
+  background_color: "00aeef"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/PhotoAlbum.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504135/PhotoAlbum.tingapp-1.0.1.zip
+  
+- name: Ocean
+  creator: WhistleMaster
+  version: v1.0.1
+  modified_date: 1 Oct 2016
+  background_color: "ff9000"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Ocean.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504134/Ocean.tingapp-1.0.1.zip
+  
+- name: Info
+  creator: WhistleMaster
+  version: v1.0.1
+  modified_date: 1 Oct 2016
+  background_color: "009f3c"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Info.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504133/Info.tingapp-1.0.1.zip
+  
+- name: Flower Power
+  creator: WhistleMaster
+  version: v1.1.0
+  modified_date: 1 Nov 2016
+  background_color: "ef9c00"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/FlowerPower.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/564182/FlowerPower.tingapp-1.1.0.zip
+  
+- name: Beautiful Time
+  creator: Will Manidis
+  version: v.0.1 
+  modified_date: 23 Sep 2016
+  background_color: "70C1B3"
+  icon: https://raw.githubusercontent.com/WillManidis/BeautifulTime/master/beautifultime.tingapp/icon.png
+  github_url: https://github.com/WillManidis/BeautifulTime
+  zip_url: https://github.com/WillManidis/BeautifulTime/archive/master.zip
+  screenshot:
+
+- name: Game Of Life
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 1 Oct 2016
+  background_color: "6dff2e"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/GameOfLife.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/504132/GameOfLife.tingapp-1.0.0.zip
+
+- name: Cheertings
+  creator: Godzil
+  version: 1.0
+  modified_date: 3 Oct 2016
+  icon: https://raw.githubusercontent.com/Godzil/Cheertings/master/CheerTing.tingapp/icon.png
+  github_url: https://github.com/Godzil/Cheertings
+  zip_url: https://github.com/Godzil/Cheertings/archive/master.zip
+
+- name: Clok
+  creator: Alexan Mardigian
+  version: v1.0.0
+  modified_date: 24 Sept 2016
+  background_color: "3a3a3c"
+  icon: https://raw.githubusercontent.com/Techno-Hwizrdry/clok/master/clok.tingapp/icon.png
+  github_url: https://github.com/Techno-Hwizrdry
+  zip_url: https://github.com/Techno-Hwizrdry/clok/archive/master.zip
+  screenshot_url: https://github.com/Techno-Hwizrdry/clok/blob/master/clok.tingapp/clok_screenshot.png
+
+- name: Shredder
+  creator: Alexan Mardigian
+  version: v1.0
+  modified_date: 30 Sept 2016
+  background_color: "3a3a3c"
+  icon: https://raw.githubusercontent.com/Techno-Hwizrdry/Shredder/master/shredder.tingapp/icon.png
+  github_url: https://github.com/Techno-Hwizrdry
+  zip_url: https://github.com/Techno-Hwizrdry/Shredder/archive/master.zip
+
+- name: SABnzb Status
+  creator: TLK999
+  version: v1.0
+  modified_date: 5 Oct 2016
+  background_color: "FED209"
+  icon: https://github.com/tlk999/tingbot/raw/master/sabnzb.tingapp/icon.png
+  github_url: https://github.com/tlk999/tingbot
+  zip_url: https://github.com/tlk999/tingbot/releases/download/1.0/sabnzb.tingapp-1.0.zip
+
+- name: GiphyTrending
+  creator: Marcelo Gaio
+  version: v1.0.3
+  modified_date: 6 Oct 2016
+  background_color: "00468C"
+  icon: https://github.com/marcelogaio/GiphyTrending/raw/master/GiphyTrending.tingapp/icon.png
+  github_url: https://github.com/marcelogaio/GiphyTrending
+  zip_url: https://github.com/marcelogaio/GiphyTrending/archive/v1.0.3.zip
+  
+- name: YadaYadaYada
+  creator: Marcelo Gaio
+  version: v1.0
+  modified_date: 6 Oct 2016
+  background_color: "7A4DFF"
+  icon: https://github.com/marcelogaio/YadaYadaYada/raw/master/YadaYadaYada.tingapp/icon.png
+  github_url: https://github.com/marcelogaio/YadaYadaYada
+  zip_url: https://github.com/marcelogaio/YadaYadaYada/archive/v1.0.zip
+
+- name: Fritzbox Bandwidth
+  creator: Ade Bradshaw
+  version: v0.1
+  modified_date: 7 Oct 2016
+  icon: https://github.com/abradshaw/Fritzbox-Bandwidth/raw/master/fritzbox-bandwidth.tingapp/icon.png
+  github_url: https://github.com/abradshaw/Fritzbox-Bandwidth
+  zip_url: https://github.com/abradshaw/Fritzbox-Bandwidth/raw/master/fritzbox-bandwidth.tingapp.zip
+  screenshot_url: https://github.com/abradshaw/Fritzbox-Bandwidth/blob/master/fritzbox-bandwidth.tingapp/screenshot.png
+
+- name: weather JP
+  creator: HeRoMo
+  version: 1.0.1
+  modified_date: 9 Oct 2016
+  icon: https://github.com/HeRoMo/tingbot_weather_jp/raw/master/weather_jp.tingapp/icon.png
+  github_url: https://github.com/HeRoMo/tingbot_weather_jp
+  zip_url: https://github.com/HeRoMo/tingbot_weather_jp/releases/download/1.0.1/weather_jp.tingapp.zip
+  screenshot_url: https://github.com/HeRoMo/tingbot_weather_jp/blob/master/screenshot.png
+  
+- name: SABDash
+  creator: Paul Holmes
+  version: v0.1
+  modified_date: 9 Oct 2016
+  icon: https://raw.githubusercontent.com/codinghands/sabdash/master/sabdash.tingapp/icon.png
+  github_url: https://github.com/codinghands/sabdash
+  zip_url: https://github.com/codinghands/sabdash/archive/master.zip
+  screenshot_url: https://s9.postimg.org/mj9b4onz3/demo.gif
+  background_color: "001F3F"
+
+- name: Tic Tac Toe
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 10 Oct 2016
+  background_color: "289f92"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/TicTacToe.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/519437/TicTacToe.tingapp-1.0.0.zip
+  
+- name: Dice
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 10 Oct 2016
+  background_color: "39654a"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Dice.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/519436/Dice.tingapp-1.0.0.zip
+  
+- name: EventsViewer
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 27 Oct 2016
+  background_color: "2d98f5"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/EventsViewer.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/556275/EventsViewer.tingapp-1.0.0.zip
+  
+- name: Ping Network
+  creator: Andy Christiawan
+  version: v0.1
+  modified_date: 8 Nov 2016
+  background_color: "2ecc71"
+  icon: https://raw.githubusercontent.com/bungandy/tingbot-ping/master/Ping.tingapp/icon.png
+  github_url: https://github.com/bungandy/tingbot-ping
+  zip_url: https://github.com/bungandy/tingbot-ping/archive/v0.1.zip
+ 
+- name: Reddit
+  creator: WhistleMaster
+  version: v1.0.0
+  modified_date: 8 Dec 2016
+  background_color: "fc471e"
+  icon: https://raw.githubusercontent.com/WhistleMaster/tingbot-apps/master/Reddit.tingapp/icon.png
+  github_url: https://github.com/WhistleMaster/tingbot-apps
+  zip_url: https://github.com/WhistleMaster/tingbot-apps/files/639794/Reddit.tingapp-1.0.0.zip
+
+- name: Tingbot shutdown
+  creator: Waves of intelligence
+  version: v0.1
+  modified_date: 8 Dec 2016
+  background_color: "00afec"
+  icon: https://raw.githubusercontent.com/waves-of-intelligence/Tingbot-shutdown/master/Tingbot shutdown.tingapp/icon.png
+  github_url: https://github.com/waves-of-intelligence/Tingbot-shutdown
+  zip_url: https://github.com/waves-of-intelligence/Tingbot-shutdown/archive/master.zip
+  
+- name: RobotArm
+  creator: Phil Underwood
+  version: v1.0
+  modified_date: 20 Dec 2016
+  icon: https://raw.githubusercontent.com/furbrain/RobotArm/master/RobotArm.tingapp/icon.png
+  github_url: https://github.com/furbrain/RobotArm
+  zip_url: https://github.com/furbrain/RobotArm/archive/master.zip
+  
+- name: Make it Snow
+  creator: ThomasG
+  version: v1.0
+  modified_date: 24 Dec 2016
+  icon: https://raw.githubusercontent.com/thomasguillard/Make-it-Snow/master/Make it Snow.tingapp/icon.png
+  github_url: https://github.com/thomasguillard/Make-it-Snow
+  zip_url: https://github.com/thomasguillard/Make-it-Snow/archive/master.zip
+  
+- name: Blast!
+  creator: Michael Leach
+  version: v1.0
+  modified_date: 20 Jan 2017
+  icon: https://raw.githubusercontent.com/MichaelLeach/blast/master/blast.tingapp/icon.png
+  github_url: https://github.com/MichaelLeach/blast
+  zip_url: https://github.com/MichaelLeach/blast/archive/master.zip
+  
+- name: CoffeeBot
+  creator: Orange Hive GmbH
+  version: v1.5.1
+  modified_date: 02 Feb 2017
+  icon: https://raw.githubusercontent.com/orange-hive/coffeeBot/master/icon.png
+  github_url: https://github.com/orange-hive/coffeeBot.git
+  zip_url: https://github.com/orange-hive/coffeeBot/releases/download/v1.5.1/coffeeBot.tingapp.zip
+  screenshot_url: https://cloud.githubusercontent.com/assets/1244307/22550743/65e8ac1c-e949-11e6-85cf-6b22bcbc045d.png
+
+- name: Wordclock
+  creator: Max Glenister
+  version: v1.0.0
+  modified_date: 05 Feb 2017
+  background_color: "1a1a2a"
+  icon: https://raw.githubusercontent.com/omgmog/tingbot-wordclock/master/src/icon.png
+  github_url: https://github.com/omgmog/tingbot-wordclock
+  zip_url: https://github.com/omgmog/tingbot-wordclock/releases/download/1.0.0/Tingbot.Wordclock.-.v0.1.tingapp.zip
+  screenshot_url: https://raw.githubusercontent.com/omgmog/tingbot-wordclock/master/python_2017-02-05_14-42-29.png
+  

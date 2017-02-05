@@ -5,9 +5,9 @@ layout: default
 <div class="home">
 
   <ul class="cards-list">
-    {% for app in site.data.apps %}
+    {% for app in site.data.apps reversed %}
       <li class="card">
-        <div class="card-background" style="background-color: #{{ app.background_color }}">
+        <div class="card-background" style="background-color: #{{ app.background_color | default: '3a3a3c' }}">
           <img class="card-icon" src="{{ app.icon }}" />
 
           <h2 class="card-title">
@@ -27,7 +27,7 @@ layout: default
           </div>
         </div>
 
-        <ul class="card-links" style="color: #{{ app.background_color }}">
+        <ul class="card-links" style="color: #{{ app.background_color | default: '3a3a3c' }}">
           {% if app.screenshot_url %}
           <li>
             <a  href="{{ app.screenshot_url }}" >
